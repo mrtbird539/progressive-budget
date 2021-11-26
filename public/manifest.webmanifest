@@ -1,0 +1,8 @@
+{
+    "name": "Progressive Budget Tracker",
+    "short_name": "Progressive Budget Tracker",
+    "theme_color": "#808080",
+    "background_color": "#808080",
+    "start_url": "/",
+    "display": "standalone"
+}
